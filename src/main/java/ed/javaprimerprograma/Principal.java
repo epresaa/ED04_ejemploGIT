@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package ed.javaprimerprograma;
 
 import javax.swing.JOptionPane;
 
 /**
- *
+ * Descripcion de la clase
  * @author Edurne
  */
 public class Principal {
@@ -18,6 +14,7 @@ public class Principal {
     public static void main(String[] args) {
         String nombre = JOptionPane.showInputDialog("Introduce tu nombre: ");
         JOptionPane.showMessageDialog(null, "Ongi etorri " + nombre + "!");
+        System.out.println("Test Versiones");
     }
     
 }
