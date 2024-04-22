@@ -15,7 +15,7 @@ public class Principal {
     public static void main(String[] args) {
         String nombre = JOptionPane.showInputDialog("Introduce tu nombre: ");
         JOptionPane.showMessageDialog(null, "Ongi etorri " + nombre + "!");
-        System.out.println("Test Versiones");
+        System.out.println("Test JIJIJI");
     }
     
 }
