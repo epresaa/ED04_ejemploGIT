@@ -9,7 +9,8 @@ import javax.swing.JOptionPane;
 public class Principal {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentssdf 
+     * CAMIBOSSSS
      */
     public static void main(String[] args) {
         String nombre = JOptionPane.showInputDialog("Introduce tu nombre: ");
